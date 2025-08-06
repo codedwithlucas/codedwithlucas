@@ -9,7 +9,7 @@ Sou **Desenvolvedor Full Stack** apaixonado por resolver problemas com código. 
 
 Fique à vontade para explorar meus repositórios e dar feedback. Estou aberto a colaborações e ideias!
 
-📫 Me mande um e-mail para: [marqueszero.dev@gmail.com](mailto:marqueszero.dev@gmail.com)
+📫 Me mande um e-mail para: [codedwithlucas@gmail.com](mailto:codedwithlucas@gmail.com)
 
 ---
 
@@ -24,4 +24,4 @@ I'm a **Full Stack Developer** passionate about solving problems with code. Righ
 
 Feel free to check out my repositories and give me feedback. I’m open to collaborations and new ideas!
 
-📫 You can reach me at: [marqueszero.dev@gmail.com](mailto:marqueszero.dev@gmail.com)
+📫 You can reach me at: [codedwithlucas@gmail.com](mailto:codedwithlucas@gmail.com)
