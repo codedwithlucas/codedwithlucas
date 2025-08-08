@@ -1,27 +1,49 @@
-# 👋 Olá, eu sou o Lucas Marques
+# Hey there! I'm Lucas Marques 👋  
+Welcome to my GitHub!
 
-Sou **Desenvolvedor Full Stack** apaixonado por resolver problemas com código. Atualmente, estou me aprofundando em **JavaScript**, **React**, **Node.js** e também trabalho com **JSF** em um projeto na empresa onde estou.
+👨‍💻 I'm a Full Stack Developer passionate about building mobile and web apps. Currently, I'm deeply focused on Flutter and Dart, creating cross-platform applications.
 
-- 🔭 Estou focado em melhorar minhas habilidades em **Front-End** (HTML, CSS, JS, React) e **Back-End** (Node.js, SQL).
-- 🌱 Além disso, estou desenvolvendo alguns projetos pessoais, como o meu **portfólio**.
-- 👨‍💻 Estou sempre aprendendo e explorando novas tecnologias!
-- 🎮 Sou aficionado por **Simulação** (ETS, iRacing, F1), e me divirto bastante nesses simuladores.
+💼 I'm currently working at **Lifemed** (Pelotas, RS) as a developer on a legacy built with JSF. The project, called **Lifemed Connect**, is a technical assistance management platform that handles service orders, support tickets, and parts requests — fully integrated with **TOTVS Protheus**.
 
-Fique à vontade para explorar meus repositórios e dar feedback. Estou aberto a colaborações e ideias!
-
-📫 Me mande um e-mail para: [codedwithlucas@gmail.com](mailto:codedwithlucas@gmail.com)
+🚀 I'm always learning and working on new ideas.  
+🎯 Right now, I'm improving my skills in Flutter and mobile development. Check out my learning project: [Skyly](https://github.com/codedwithlucas/skyly)  
+👨‍👧 Proud dad to Isabela — she's my biggest motivation!  
+🏎️ Also, a big Formula 1 fan. Love watching the races every weekend!
 
 ---
 
-# 👋 Hi, I’m Lucas Marques
+### Tech Stack 🔧
 
-I'm a **Full Stack Developer** passionate about solving problems with code. Right now, I’m diving into **JavaScript**, **React**, **Node.js**, and I’m also working on a project with **JSF** at my current company.
+**Mobile:** Flutter, Dart, Java (Android)  
+**Back-End:** Node.js, SQL, JSF  
+**Tools:** Git, Docker, VS Code, IntelliJ IDEA  
 
-- 🔭 I’m focused on improving my skills in **Front-End** (HTML, CSS, JS, React) and **Back-End** (Node.js, SQL).
-- 🌱 I’m also working on personal projects and my **portfolio**.
-- 👨‍💻 I’m always learning and exploring new technologies!
-- 🎮 I'm a big **Simulation** fan (ETS, iRacing, F1), and I enjoy playing those games in my free time.
+---
 
-Feel free to check out my repositories and give me feedback. I’m open to collaborations and new ideas!
+### 🧠 What I'm Learning Now
 
-📫 You can reach me at: [codedwithlucas@gmail.com](mailto:codedwithlucas@gmail.com)
+- Flutter (advanced concepts, state management, animations, clean architecture)
+- UI/UX best practices
+
+---
+
+### 🎯 Next Goals
+
+- Build a solid portfolio
+- Deepen my backend skills to support full-stack and mobile development 
+- Find a role where I can grow technically
+- Keep learning to create better solutions — and build a better life
+- Publishing apps to Google Play (in the next months)
+
+---
+
+### Find me around the web ✍️
+
+- 📧 [codedwithlucas@gmail.com](mailto:codedwithlucas@gmail.com)  
+- LinkedIn: [linkedin.com/in/codedwithlucas](https://linkedin.com/in/codedwithlucas)  
+- Portfolio: *coming soon*  
+
+---
+
+Feel free to explore my repos, give feedback, or reach out.  
+I'm always open to new connections, challenges, and ideas!
