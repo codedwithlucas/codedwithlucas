@@ -39,11 +39,17 @@ Welcome to my GitHub!
 
 ### Find me around the web ✍️
 
-- 📧 [codedwithlucas@gmail.com](mailto:codedwithlucas@gmail.com)  
+- Email: **codedwithlucas@gmail.com**  
 - LinkedIn: [linkedin.com/in/codedwithlucas](https://linkedin.com/in/codedwithlucas)  
-- Portfolio: *coming soon*  
+- Portfolio: *Coming soon — stay tuned!*
 
 ---
 
-Feel free to explore my repos, give feedback, or reach out.  
-I'm always open to new connections, challenges, and ideas!
+Feel free to explore my repositories or reach out — I'm open to feedback, connections, and new challenges!
+
+---
+
+## 📄 Download my resume — updated August 2025
+
+- **Português (PT-BR):** [here](https://drive.google.com/file/d/1GVKcfvp3otmxEF3u00oihNBifZr4iX3i/view)  
+- **English (ENG):** [here](https://drive.google.com/file/d/1g3iBPL6BpI0GAzdRGMHTxhOEqexhZ9Om/view)
